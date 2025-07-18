@@ -1,0 +1,1 @@
+# Stooq S&P 500 Scraper Package
